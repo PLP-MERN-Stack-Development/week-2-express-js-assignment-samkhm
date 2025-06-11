@@ -33,6 +33,7 @@ Build a RESTful API using Express.js that implements standard CRUD operations, p
 - Add validation middleware for the product creation and update routes
 
 ### Task 4: Error Handling
+---- I'm continueing from here
 - Implement global error handling middleware
 - Create custom error classes for different types of errors (e.g., NotFoundError, ValidationError)
 - Add proper error responses with appropriate HTTP status codes
